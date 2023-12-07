@@ -5,7 +5,7 @@ import { Form, Button, Row, Col } from 'react-bootstrap';
 import FormContainer from '../components/FormContainer';
 import {toast} from 'react-toastify';
 import Loader from '../components/Loader';
-import { useRegisterMutation } from '../slices/usersApiSLice';
+import { useRegisterMutation } from '../slices/usersApiSlice';
 import {setCredentials} from "../slices/authSlice";
 
 const RegisterScreen = () => {
