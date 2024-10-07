@@ -31,8 +31,10 @@ npm install
 ## Run and Build 
 
 ### Frontend and backend 
+```bash
 npm run dev
-
+```
 ### Frontend only 
+```bash
 npm run server
-
+```
