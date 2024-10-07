@@ -1,8 +1,8 @@
 # MERN Stack Authentication App
 
-![Register Screenshot]([https://github.com/joycezhou66/mern-auth/blob/main/Register.png])
+![Register Screenshot](https://github.com/joycezhou66/mern-auth/blob/main/Register.png)
 
-![Sign Up Screenshot]([https://github.com/joycezhou66/mern-auth/blob/main/Sign%20up.png])
+![Sign Up Screenshot](https://github.com/joycezhou66/mern-auth/blob/main/Sign%20up.png)
 
 
 ## Summary
