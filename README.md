@@ -1,5 +1,3 @@
-# MERN-AUTH
- 
 # MERN Stack Authentication App
 
 ## Summary
