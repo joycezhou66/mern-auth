@@ -1,5 +1,10 @@
 # MERN Stack Authentication App
 
+![Register Screenshot]([[https://example.com/image.png](https://github.com/joycezhou66/mern-auth/blob/main/Register.png)])
+
+![Sign Up Screenshot]([https://example.com/image.png](https://github.com/joycezhou66/mern-auth/blob/main/Sign%20up.png))
+
+
 ## Summary
 This project is a full-featured MERN (MongoDB, Express, React, Node.js) stack application with a focus on authentication. It includes a React Single Page Application (SPA) frontend and a robust API backend. The project demonstrates how to create and manage state using Redux Toolkit, secure user authentication with JWT tokens, and deploy the app for production.
 
